@@ -117,13 +117,3 @@ Actors sit outside the system boundary rectangle; use cases are ovals inside it.
 
 ---
 
-## 5. Deliverable Checklist
-
-- [x] Step 1 — Scenario review
-- [x] Step 2A — Brainstorm functions & constraints
-- [x] Step 2B — Requirements table (5 FR + 2 NFR)
-- [x] Step 3 — Peer critique & revision
-- [x] Step 4 — Actors (3) & use cases (9)
-- [ ] Step 5 — UML use-case diagram in draw.io → export PDF
-- [ ] Step 6 — Use-case flow for *Book Skill Session* → export PDF
-- [ ] Step 7 — Push both PDFs to Lab-1 Git repository
